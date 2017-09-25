@@ -1,0 +1,4 @@
+Die Grundidee von Chrome OS liegt in der Verwendung von sogenannten Webanwendungen durch den Nutzer, wie sie durch Google bspw. mit Google Mail und Google Drive zur Verfügung gestellt werden. Dieser Web-Clientansatz von Chrome OS steht im Gegensatz zum klassischen Betriebssystem-Ansatz für PCs, Laptop usw. bei dem der Nutzer native Anwendungen lokal installiert und verwendet. Durch den Webapplikationsfokus ist daher eine ständige Verbindung mit dem Internet Voraussetzung, dafür müssen keine Applikationen installiert und gewartet werden.
+
+Entwickler: Google
+Abstammung: Linux
